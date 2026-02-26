@@ -13,6 +13,7 @@ Welcome to your favorite Organization LMControl 🌈
 
 - [Services/Apps for "Gestion a Distance"](https://github.com/orgs/LM-Control/repositories?q=GAD-)
 - [TouchNPay Services/Utils](https://github.com/orgs/LM-Control/repositories?q=TNP-)
+- [SimplyPay Services/Utils](https://github.com/orgs/LM-Control/repositories?q=SIMPLYPAY-)
 - [Android Projects](https://github.com/orgs/LM-Control/repositories?q=ANDROID-)
 - [Infrastructure Projects](https://github.com/orgs/LM-Control/repositories?q=AUX-ANSIBLE+OR+AUX-TF)
 
